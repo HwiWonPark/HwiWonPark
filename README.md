@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @HwiWonPark
+- 🌱 I’m currently learning ai & bigdata engineering
